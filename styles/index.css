@@ -7,3 +7,13 @@
   font-family: InterBold;
   src: url(../fonts/Inter-Bold.ttf);
 } */
+.main {
+  padding: 150px;
+}
+.main__heading {
+  font-size: 128px;
+  font-weight: bold;
+}
+.main__sub-heading {
+  font-size: 40px;
+}
